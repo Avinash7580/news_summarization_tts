@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+nltk
+pandas
+transformers
+torch
+gradio
+gtts
+flask
+newspaper3k
